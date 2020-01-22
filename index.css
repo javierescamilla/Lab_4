@@ -1,0 +1,22 @@
+.crossed{
+    text-decoration: line-through;
+}
+
+.unCorssed{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;    
+}
+ 
+.marginElement{
+    width: 400px;
+    border: 1px solid;
+    padding: 10px;
+}
+
+p{
+    font: Arial, sans-serif;
+    font-size: 20px;
+}
